@@ -1,0 +1,56 @@
+/* Empty. Add your own CSS if you like */
+body{
+	cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+#addExpenseButton{
+	height: 30px;
+	width: 90px
+}
+
+#dateText{
+	font-size: 16px;
+}
+#goalChartDiv{
+	height: 165px;
+}
+#bridge{
+	height: 8px;
+}
+#goalChart{
+/*	margin: 0 auto;	*/
+	
+	width: 150px;
+	height: 150px;
+}
+#goalText{
+	text-align: center;
+	font-family: georgia;
+	font-size: 32px;
+}
+#goalSubText{
+	text-align: center;
+	font-family: georgia;
+	font-size: 20px;
+}
+
+#expenseChart{
+/*	float: left;	*/
+	margin: 0 auto;	
+		
+	width: 250px;
+	height: 200px;
+}
+
+.item-body{
+/*	height: 300px;	*/
+}
+.cardMessage{
+	text-align: left;
+	font-family: georgia;
+	font-size: 18px;
+}
+
+#formBreak{
+	margin-top: 50px;
+}
